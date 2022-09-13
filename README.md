@@ -7,7 +7,7 @@ Full Stack Software Developer
 Full Stack Software Developer who is currently learning and utilizing JavaScript and the MERN stack. As someone passionate about tech, I look forward to using my skill as a software developer to help contribute to technologies and their good impact on people's lives.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [https://kayceenuel.netlify.app](http://https://kayceenuel.netlify.app)
+* 🖥️  See my portfolio at [https://kayceenuel.netlify.app](http://kayceenuel.netlify.app)
 * ✉️  You can contact me at [heykayceee@gmail.com](mailto:heykayceee@gmail.com)
 
 ### Skills
@@ -41,4 +41,4 @@ Full Stack Software Developer who is currently learning and utilizing JavaScript
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/KayceeNuel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/KayceeNuel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
