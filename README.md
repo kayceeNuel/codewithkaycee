@@ -41,4 +41,4 @@ Full Stack Software Developer who is currently learning and utilizing JavaScript
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/https://twitter.com/kayceenuel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/KayceeNuel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
