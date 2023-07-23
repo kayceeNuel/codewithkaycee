@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is kenechukwu Emmanuel (Kaycee Nuel)
 =========================================================================================================================================================
 
-Full Stack Software Egineer.
+Full Stack Software Engineer.
 ----------------------------
 
 I'm a Full Stack Software Developer with a strong focus on backend development. Currently mastering JavaScript and the MERN stack, my passion for technology drives me to leverage my skills for positive contributions and impactful solutions in people's lives.
